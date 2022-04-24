@@ -11,7 +11,7 @@ ________________________________________
 - Live video: 
 ![project](https://user-images.githubusercontent.com/98055899/164955688-bb7f885e-d09a-4d74-b46d-7297fb12757b.gif)
 
-- Link to github repo:
+- Link to github repo: https://github.com/paulwon2223/README-Generator-PW
 
 - Link to video: https://drive.google.com/file/d/1PfFplnhGkEG7oaXV--KsCTo8PHHCMoiD/view?usp=sharing
 
