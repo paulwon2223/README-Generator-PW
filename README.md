@@ -8,7 +8,7 @@ ________________________________________
 - In the process of creating this application, I used the nmp libray, specifically the 'inquire' to alert the promts to the users. Furthermore the 'fs' directory was used to write file once the input of the user was given
 
 ### Addtional Documents:
-- Live video: 
+- Live video: ![project](https://user-images.githubusercontent.com/98055899/164955688-bb7f885e-d09a-4d74-b46d-7297fb12757b.gif)
 
 - Link to github repo:
 
